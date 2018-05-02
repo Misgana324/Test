@@ -22,5 +22,30 @@
     <a href="https://www.goat.com/">Here</a>
 <dt></dt>
 <a href="https://www.flightclub.com/">Here</a> 
-
+<h1 align="center">Know to clothes</h1>
+ <table width='100%' border=1px cellspacing=0>
+ <caption>Ranked clothing brands</caption>
+ <tr>
+     <th>Ranking</th>
+     <th>Name</th>
+     <th>Category</th>
+ </tr>
+ <tr>
+     <td>1</td>
+     <td>Gucci</td>
+     <td>Designer</td>
+ </tr>
+ <tr>
+     <td>2</td>
+     <td>OFF-WHITE</td>
+     <td>Hype/Designer</td>
+ </tr>
+ <tr>
+     <td>3</td>
+     <td>Balenciaga</td>
+     <td>Designer</td>
+ </tr>
+ <tr>
+     
+ </table>
 
