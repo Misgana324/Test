@@ -1,4 +1,5 @@
-<body BGcolor="grey">
+<body Bgcolor="grey">
+ 
 <h1 align="center">WELCOME</h1>
 <br>
 <h3>What is the best sneaker retail?:
@@ -59,10 +60,10 @@ ter"><b>How much money do these brands make:</b><h3>
 <ol>
 <li>Gucci:3.27 billion</li>
 <ul>
-<li>OFF-WHITE:742 million</li>
+<li id="xyz124">OFF-WHITE:742 million</li>
 </ul>
-<li>Balenciaga:2.35 billion</li>
+<li id="xyz123" >Balenciaga:2.35 billion</li>
 </ol>
 <video controls loop>
 <source src="https://www.youtube.com/watch?v=OPf0YbXqDm0"type/mp4">
-                                                                       
+                                                                  
