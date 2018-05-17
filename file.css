@@ -1,3 +1,4 @@
+<style>
 body { 
 background-color: grey;
 }
@@ -5,11 +6,10 @@ background-color: grey;
 h1 {
  color:green;
 }
-div.b {
+div.a {
  height: auto;
- border: 1px solid orange;
+ border: 8px solid orange;
  font-size: 15pt;
-
 }
 
 h3 {
@@ -19,4 +19,4 @@ h3 {
 p.b {
     font-family: "Times New Roman", Times, serif;
 }
-
+</style>
