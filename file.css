@@ -5,13 +5,8 @@ background-color: grey;
 h1 {
  color:green;
 }
-
-div {
-font-size: 30px;
-  } 
-
-p.serif {
-    font-family: Times New Roman", "Times", "serif;
+div.a {
+    font-size: 15px;
 }
 
 h3 {
