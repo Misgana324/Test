@@ -13,11 +13,7 @@ h3 {
  text-align: left; 
 }
 
-p.a {
+p.b {
     font-family: "Times New Roman", Times, serif;
 }
 
-div.a {
-    height: auto;
-    border: 8 solid orange;
-}
