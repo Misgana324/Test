@@ -20,3 +20,8 @@ h3 {
 p.b {
     font-family: "Times New Roman", Times, serif;
 }
+#example1 {
+    border: 3px solid;
+    padding: 1px;
+    box-shadow: 5px 10px;
+}
