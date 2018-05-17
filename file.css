@@ -7,13 +7,13 @@ h1 {
 }
 
 div {
-font-size: "30px";
+font-size: 30px;
   } 
 
 p.serif {
-    font-family: "Times New Roman", "Times", "serif";
+    font-family: Times New Roman", "Times", "serif;
 }
 
 h3 {
- text-align: "left"; 
+ text-align: left; 
 }
