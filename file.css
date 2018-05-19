@@ -25,4 +25,6 @@ p.b {
     padding: 1px;
     box-shadow: 5px 10px;
 }
-
+a:link {
+    background-color: red;
+}
