@@ -25,9 +25,9 @@ p.b {
     padding: 1px;
     box-shadow: 5px 10px;
 }
-li # "ace" {
- color:red;
+li#"ace" {
+ color : red;
 }
-ul # "spades" {
- color:blue;
+ul#"spades" {
+ color : blue;
 }
